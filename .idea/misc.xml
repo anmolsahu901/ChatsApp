@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/desktop files/android studio apps/ChatsApp/app/src/main/res/drawable/chat_bg_color.xml" value="0.2495" />
+        <entry key="..\:/desktop files/android studio apps/ChatsApp/app/src/main/res/drawable/recieve_drawable.xml" value="0.2495" />
+        <entry key="..\:/desktop files/android studio apps/ChatsApp/app/src/main/res/drawable/send_drawable.xml" value="0.2495" />
+        <entry key="..\:/desktop files/android studio apps/ChatsApp/app/src/main/res/layout/activity_chat.xml" value="0.23958333333333334" />
+        <entry key="..\:/desktop files/android studio apps/ChatsApp/app/src/main/res/layout/recieve_rv_item.xml" value="0.23958333333333334" />
+        <entry key="..\:/desktop files/android studio apps/Practice projects/ChatsApp/app/src/main/res/layout/activity_phone_number.xml" value="0.21614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
